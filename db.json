@@ -1,0 +1,2509 @@
+{
+  "data": [
+    {
+      "url": "https://www.chumbak.com/products/awesome-mum-gift-box-set-of-5",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605136801_2.jpg?v=1714125041&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605136801_6.jpg?v=1714125041&width=2083",
+      "button_text": "ADD TO CART",
+      "product_name": "Awesome Mum | Gift Box - Set of 5",
+      "price": "₹ 1,295",
+      "id": "6bec"
+    },
+    {
+      "url": "https://www.chumbak.com/products/soya-wax-candles",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131448_1_aa77bf8a-ddd8-4b31-86bb-1dd8b7804f2d.jpg?v=1708430429&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131455_1_5db2cacf-6d3a-47fd-935f-71b544da4bac.jpg?v=1708430746&width=1000",
+      "button_text": "Choose options",
+      "product_name": "Soya Wax Candles",
+      "price_from": "From ₹ 635",
+      "on_sale": true,
+      "original_price": "₹ 795",
+      "regular_price": "",
+      "id": "afc8"
+    },
+    {
+      "url": "https://www.chumbak.com/products/cities-of-india-tin-candles-gift-box-set-of-4",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605133282_2.jpg?v=1706179519&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605133282_1.jpg?v=1706179519&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Cities of India Tin Candles Gift Box | Set of 4",
+      "price": "₹ 1,295",
+      "id": "431e"
+    },
+    {
+      "url": "https://www.chumbak.com/products/apple-cinnamon-soy-wax-candle",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131493_2_c9d8dedc-0fdd-4d7f-910a-ef6691002427.jpg?v=1704976616&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131493_3.jpg?v=1712210842&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Apple Cinnamon Soy Wax Candle, 265g",
+      "price": "₹ 795",
+      "discount": "Save 20%",
+      "original_price": "₹ 995",
+      "regular_price": "₹ 995",
+      "product_reviews_url": "https://www.chumbak.com/products/apple-cinnamon-soy-wax-candle#shopify-product-reviews",
+      "rating": 5,
+      "id": "bcc3"
+    },
+    {
+      "url": "https://www.chumbak.com/products/cedar-jasmine-soy-wax-candle",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131486_2_83684f79-890a-4291-a97c-77ccab84acf2.jpg?v=1704976660&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131486_1.jpg?v=1704976660&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Cedar Jasmine Soy Wax Candle, 265g",
+      "price": "₹ 795",
+      "discount": "Save 20%",
+      "original_price": "₹ 995",
+      "regular_price": "₹ 995",
+      "id": "4fe3"
+    },
+    {
+      "url": "https://www.chumbak.com/products/lemon-verbena-soy-wax-candle",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131479_2_d37a58a6-e9ce-4bf0-9fc2-55e92c61d4f8.jpg?v=1704976663&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131479_1.jpg?v=1704976663&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Lemon Verbena Soy Wax Candle, 265g",
+      "price": "₹ 795",
+      "discount": "Save 20%",
+      "original_price": "₹ 995",
+      "regular_price": "₹ 995",
+      "id": "6916"
+    },
+    {
+      "url": "https://www.chumbak.com/products/green-tea-bergamot-soy-wax-candle",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131462_2_6180991f-5241-4585-a853-456ab3af8bdb.jpg?v=1704976667&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131462_1.jpg?v=1704976667&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Green Tea & Bergamot Soy Wax Candle, 265g",
+      "price": "₹ 795",
+      "discount": "Save 20%",
+      "original_price": "₹ 995",
+      "regular_price": "₹ 995",
+      "id": "c1c6"
+    },
+    {
+      "url": "https://www.chumbak.com/products/white-tea-pomegranate-soy-wax-candle",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131455_2_87ae3903-238d-4e69-a20f-fd1349cf6bb0.jpg?v=1704976670&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131455_1.jpg?v=1704976670&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "White Tea & Pomegranate Soy Wax Candle, 265g",
+      "price": "₹ 795",
+      "discount": "Save 20%",
+      "original_price": "₹ 995",
+      "regular_price": "₹ 995",
+      "id": "fb66"
+    },
+    {
+      "url": "https://www.chumbak.com/products/shea-cashmere-soy-wax-candle-large",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131196_2.jpg?v=1704976724&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131196_1.jpg?v=1704976724&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Shea Cashmere Soy Wax Candle, 440g",
+      "price": "₹ 1,435",
+      "discount": "Save 20%",
+      "original_price": "₹ 1,795",
+      "regular_price": "₹ 1,795",
+      "id": "a77c"
+    },
+    {
+      "url": "https://www.chumbak.com/products/oud-bergamot-soy-wax-candle-large",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131189_2.jpg?v=1704976729&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131189_1.jpg?v=1704976729&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Oud & Bergamot Soy Wax Candle, 440g",
+      "price": "₹ 1,435",
+      "discount": "Save 20%",
+      "original_price": "₹ 1,795",
+      "regular_price": "₹ 1,795",
+      "id": "97f1"
+    },
+    {
+      "url": "https://www.chumbak.com/products/jasmine-tea-soy-wax-candl-large",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131158_2.jpg?v=1704976738&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131158_1.jpg?v=1704976738&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Jasmine Tea Soy Wax Candle, 440g",
+      "price": "₹ 1,435",
+      "discount": "Save 20%",
+      "original_price": "₹ 1,795",
+      "regular_price": "₹ 1,795",
+      "id": "7e36"
+    },
+    {
+      "url": "https://www.chumbak.com/products/moonlit-stroll-perfume-100-ml",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605104282_1.jpg?v=1701069333&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605104282_2.jpg?v=1701069334&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Moonlit Stroll Perfume, 100 ml",
+      "price": "₹ 1,595",
+      "discount": "Save 20%",
+      "original_price": "₹ 1,995",
+      "regular_price": "₹ 1,995",
+      "id": "db87"
+    },
+    {
+      "url": "https://www.chumbak.com/products/anniversary-gift-card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/Anniversary.jpg?v=1698316791&width=1000",
+      "image2": "",
+      "button_text": "Choose options",
+      "product_name": "Anniversary Gift Card",
+      "price": "From ₹ 1,000",
+      "id": "b752"
+    },
+    {
+      "url": "https://www.chumbak.com/products/diwali-party-gift-box-laxmi",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605132957_1.jpg?v=1697439605&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605132957_2.jpg?v=1697439604&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Diwali Party Gift Box - Laxmi",
+      "price": "₹ 695",
+      "id": "8797"
+    },
+    {
+      "url": "https://www.chumbak.com/products/diwali-party-gift-box-ganesha",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605132964_1.jpg?v=1697439521&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605132964_2.jpg?v=1697439520&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Diwali Party Gift Box - Ganesha",
+      "price": "₹ 695",
+      "id": "4a8e"
+    },
+    {
+      "url": "https://www.chumbak.com/products/tiara-bloom-mugs-gift-set-of-2",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605126611_1.jpg?v=1693920180&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605126611_2.jpg?v=1693920180&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Tiara Bloom Mugs - Gift Set of 2",
+      "price": "₹ 595",
+      "discount": "Save 40%",
+      "original_price": "₹ 995",
+      "regular_price": "₹ 995",
+      "product_reviews_url": "https://www.chumbak.com/products/tiara-bloom-mugs-gift-set-of-2#shopify-product-reviews",
+      "rating": 5,
+      "id": "8d12"
+    },
+    {
+      "url": "https://www.chumbak.com/products/summer-carnival-candle",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605126918_1.jpg?v=1692597446&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605126918_2.jpg?v=1692597447&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Summer Carnival Candle",
+      "price": "₹ 595",
+      "id": "77b2"
+    },
+    {
+      "url": "https://www.chumbak.com/products/beach-days-scented-candle",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605126697_1.jpg?v=1680358094&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605126697_2.jpg?v=1680358094&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Beach Days Scented Candle",
+      "price": "₹ 415",
+      "discount": "Save 30%",
+      "original_price": "₹ 595",
+      "regular_price": "₹ 595",
+      "id": "ff2c"
+    },
+    {
+      "url": "https://www.chumbak.com/products/christmas-chimes-gift-set-set-of-4",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605123610_2.jpg?v=1674103671&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605123610_1.jpg?v=1674103668&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Christmas Charms Gift Set | Set of 4",
+      "price": "₹ 300",
+      "discount": "Save 50%",
+      "original_price": "₹ 595",
+      "regular_price": "₹ 595",
+      "id": "072a"
+    },
+    {
+      "url": "https://www.chumbak.com/products/vintage-kutch-leaf-tea-light-holder",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605102301_1.jpg?v=1673510203&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605102301_2.jpg?v=1673510041&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Vintage Kutch Leaf Tea Light Holder",
+      "price": "₹ 900",
+      "discount": "Save 50%",
+      "original_price": "₹ 1,795",
+      "regular_price": "₹ 1,795",
+      "product_reviews_url": "https://www.chumbak.com/products/vintage-kutch-leaf-tea-light-holder#shopify-product-reviews",
+      "rating": 4,
+      "id": "0d5a"
+    },
+    {
+      "url": "https://www.chumbak.com/products/orgsnisers-obsession-gift-set-cslendsr-pen-holder",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605119408_1.jpg?v=1709016981&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605119408_1_58777c90-62f6-4983-945d-73551cd673bd.jpg?v=1709016981&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Organiser's Obsession Gift Set| Calendar & Pen Holder",
+      "price": "₹ 1,435",
+      "discount": "Save 20%",
+      "original_price": "₹ 1,795",
+      "regular_price": "₹ 1,795",
+      "id": "82b5"
+    },
+    {
+      "url": "https://www.chumbak.com/products/sround-the-world-csndy-jsr",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8904218016933_1_8b2a5787-8a9e-45bf-a750-b6b3a6ce09c4.jpg?v=1701150687&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8904218016933_2_75bf0cb0-e3e1-4fa7-b6d8-0be3a4422a67.jpg?v=1701150688&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Around the world Candy Jar",
+      "price": "₹ 295",
+      "discount": "Save 40%",
+      "original_price": "₹ 495",
+      "regular_price": "₹ 495",
+      "id": "80aa"
+    },
+    {
+      "url": "https://www.chumbak.com/products/pineapple-party-gift-set-with-4-coasters-and-a-wine-stopper",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605091469-1.jpg?v=1673680857&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605091469-2.jpg?v=1673680854&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Pineapple Party Gift Set With 4 Coasters And A Wine Stopper",
+      "price": "₹ 500",
+      "discount": "Save 50%",
+      "original_price": "₹ 995",
+      "regular_price": "₹ 995",
+      "id": "5c29"
+    },
+    {
+      "url": "https://www.chumbak.com/products/bohemian-paisleys-medium-gift-box-mint",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605118494_1.jpg?v=1673456563&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605118494_2.jpg?v=1673456566&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Bohemian Paisleys Medium gift box-Mint",
+      "price": "₹ 395",
+      "id": "c3a2"
+    },
+    {
+      "url": "https://www.chumbak.com/products/bohemian-paisleys-small-gift-box-pink",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605118579_1.jpg?v=1673456578&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605118579_2.jpg?v=1673456582&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Bohemian Paisleys Small gift box-Pink",
+      "price": "₹ 295",
+      "product_reviews_url": "https://www.chumbak.com/products/bohemian-paisleys-small-gift-box-pink#shopify-product-reviews",
+      "rating": 5,
+      "id": "72ff"
+    },
+    {
+      "url": "https://www.chumbak.com/products/zen-corner-gift-set",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605118562_1.jpg?v=1673494542&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605118562_2.jpg?v=1673521555&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Zen Corner Gift Set",
+      "price": "₹ 1,295",
+      "id": "90b3"
+    },
+    {
+      "url": "https://www.chumbak.com/products/blissful-woodlands-snack-plates-set-of-4",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605110740_1.jpg?v=1673441275&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605110740_2.jpg?v=1673441279&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Blissful Woodlands Snack Plates Set of 4",
+      "price": "₹ 900",
+      "discount": "Save 50%",
+      "original_price": "₹ 1,795",
+      "regular_price": "₹ 1,795",
+      "id": "cade"
+    },
+    {
+      "url": "https://www.chumbak.com/products/message-card-happy-birthday-with-flower-design",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605111204_plus1.jpg?v=1673929242&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605111204_plus2.jpg?v=1673929080&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Happy Birthday With Flower Message Card",
+      "price": "₹ 10",
+      "discount": "Save 50%",
+      "original_price": "₹ 20",
+      "regular_price": "₹ 20",
+      "id": "34cc"
+    },
+    {
+      "url": "https://www.chumbak.com/products/message-card-merry-christmas",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605111167_plus1.jpg?v=1673950126&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605111167_plus2.jpg?v=1673950122&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Merry Christmas Message Card",
+      "price": "₹ 10",
+      "discount": "Save 50%",
+      "original_price": "₹ 20",
+      "regular_price": "₹ 20",
+      "id": "efec"
+    },
+    {
+      "url": "https://www.chumbak.com/products/message-card-it-s-a-gift",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605111181_plus1.jpg?v=1673949958&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605111181_plus2.jpg?v=1673949955&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "It’s a Gift Message Card",
+      "price": "₹ 10",
+      "discount": "Save 50%",
+      "original_price": "₹ 20",
+      "regular_price": "₹ 20",
+      "id": "a0c5"
+    },
+    {
+      "url": "https://www.chumbak.com/products/message-card-i-love-you-from-head",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605111211_plus1.jpg?v=1673897218&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605111211_plus2.jpg?v=1673897215&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "I love you from Head Message Card",
+      "price": "₹ 10",
+      "discount": "Save 50%",
+      "original_price": "₹ 20",
+      "regular_price": "₹ 20",
+      "id": "6592"
+    },
+    {
+      "url": "https://www.chumbak.com/products/message-card-happy-diwali",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605111198_plus1.jpg?v=1673895597&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605111198_plus2.jpg?v=1673895594&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Happy Diwali Message Card",
+      "price": "₹ 10",
+      "discount": "Save 50%",
+      "original_price": "₹ 20",
+      "regular_price": "₹ 20",
+      "product_reviews_url": "https://www.chumbak.com/products/message-card-happy-diwali#shopify-product-reviews",
+      "rating": 4,
+      "id": "fdd3"
+    },
+    {
+      "url": "https://www.chumbak.com/products/message-card-happy-birthday-cake-design",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605111174_plus1.jpg?v=1673929249&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605111174_plus2.jpg?v=1673929246&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Happy Birthday Cake Message Card",
+      "price": "₹ 10",
+      "discount": "Save 50%",
+      "original_price": "₹ 20",
+      "regular_price": "₹ 20",
+      "product_reviews_url": "https://www.chumbak.com/products/message-card-happy-birthday-cake-design#shopify-product-reviews",
+      "rating": 4,
+      "id": "d2f8"
+    },
+    {
+      "url": "https://www.chumbak.com/products/country-wooden-large-bowl-farm-garden-yellow-8-x-8-x-3-5",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605110467_plus8.jpg?v=1674081177&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605110467_plus1.jpg?v=1674081174&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Farmhouse large Bowl -Farm Garden, Yellow, 8”x 8” x 3.5”",
+      "price": "₹ 775",
+      "discount": "Save 40%",
+      "original_price": "₹ 1,295",
+      "regular_price": "₹ 1,295",
+      "id": "1ff1"
+    },
+    {
+      "url": "https://www.chumbak.com/products/country-wooden-cake-cloche-farm-garden-yellow-8",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605110351_plus8.jpg?v=1674068935&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605110351_plus1.jpg?v=1674068931&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Farmhouse Cake Cloche - Farm Garden, Yellow, 8”",
+      "price": "₹ 650",
+      "discount": "Save 50%",
+      "original_price": "₹ 1,295",
+      "regular_price": "₹ 1,295",
+      "product_reviews_url": "https://www.chumbak.com/products/country-wooden-cake-cloche-farm-garden-yellow-8#shopify-product-reviews",
+      "rating": 4,
+      "id": "e0f0"
+    },
+    {
+      "url": "https://www.chumbak.com/products/massage-card-it-s-a-gift-with-ribbon-design",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605111327_plus1.jpg?v=1673881736&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605111327_plus2.jpg?v=1673881733&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "It’s a Gift With Ribbon Message Card",
+      "price": "₹ 10",
+      "discount": "Save 50%",
+      "original_price": "₹ 20",
+      "regular_price": "₹ 20",
+      "product_reviews_url": "https://www.chumbak.com/products/massage-card-it-s-a-gift-with-ribbon-design#shopify-product-reviews",
+      "rating": 1,
+      "id": "262b"
+    },
+    {
+      "url": "https://www.chumbak.com/products/stay-cheeky-blush-kit",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605108532_plus31.jpg?v=1673636385&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605108532_plus32.jpg?v=1673636221&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Stay Cheeky Blush kit",
+      "price": "₹ 320",
+      "discount": "Save 60%",
+      "original_price": "₹ 795",
+      "regular_price": "₹ 795",
+      "id": "c6ea"
+    },
+    {
+      "url": "https://www.chumbak.com/products/rooted-in-style-brown-plant-holder",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605105364_plus4.jpg?v=1673674561&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605105364_plus1.jpg?v=1673674558&width=1000",
+      "button_text": null,
+      "product_name": "Plant Lady Metal Planter",
+      "price": "₹ 650",
+      "discount": "Save 50%",
+      "original_price": "₹ 1,295",
+      "regular_price": "₹ 1,295",
+      "id": "b298"
+    },
+    {
+      "url": "https://www.chumbak.com/products/heartfelt-birds-yellow-steel-tumbler-small",
+      "image1": "https://www.chumbak.com/cdn/shop/products/chumbak1574.jpg?v=1673368008&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/chumbak1576.jpg?v=1673368011&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Boho Birds Steel Tumbler - Small",
+      "price": "₹ 595",
+      "product_reviews_url": "https://www.chumbak.com/products/heartfelt-birds-yellow-steel-tumbler-small#shopify-product-reviews",
+      "rating": 5,
+      "id": "6037"
+    },
+    {
+      "url": "https://www.chumbak.com/products/heartfelt-birds-yellow-steel-tumbler-large",
+      "image1": "https://www.chumbak.com/cdn/shop/products/chumbak1537.jpg?v=1673451538&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/chumbak1538.jpg?v=1673451541&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Boho Birds Steel Tumbler - Large",
+      "price": "₹ 795",
+      "product_reviews_url": "https://www.chumbak.com/products/heartfelt-birds-yellow-steel-tumbler-large#shopify-product-reviews",
+      "rating": 5,
+      "id": "3ad2"
+    },
+    {
+      "url": "https://www.chumbak.com/products/forest-animals-green-canvas-framed-art",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605098741_top2.jpg?v=1673974440&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/2_24_2.jpg?v=1673947973&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Forest Animals Wall Art",
+      "price": "₹ 4,195",
+      "discount": "Save 30%",
+      "original_price": "₹ 5,995",
+      "regular_price": "₹ 5,995",
+      "id": "6580"
+    },
+    {
+      "url": "https://www.chumbak.com/products/jewellery-holdersplainopen",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605084386.jpg?v=1687762704&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605084386_plus1.jpg?v=1687762704&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Enjoy The Little Things Jewellery Box - Teal",
+      "price": "₹ 1,995",
+      "product_reviews_url": "https://www.chumbak.com/products/jewellery-holdersplainopen#shopify-product-reviews",
+      "rating": 4,
+      "id": "ff70"
+    },
+    {
+      "url": "https://www.chumbak.com/products/hooked-on-home-key-holder",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605079191_top2_0a5c2b7a-763e-4fa7-98da-305274b981e5.jpg?v=1694423852&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605079191_plus1.jpg?v=1694423852&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Hooked On Home Key Holder",
+      "price": "₹ 1,295",
+      "product_reviews_url": "https://www.chumbak.com/products/hooked-on-home-key-holder#shopify-product-reviews",
+      "rating": 4.8,
+      "id": "6a04"
+    },
+    {
+      "url": "https://www.chumbak.com/products/bowlsteal1",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605074462_1.jpg?v=1697196324&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605074462_2.jpg?v=1697196323&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Hibiscus Bloom Bowls Gift Box | Set of 4",
+      "price": "₹ 1,795",
+      "product_reviews_url": "https://www.chumbak.com/products/bowlsteal1#shopify-product-reviews",
+      "rating": 3.7,
+      "id": "823c"
+    },
+    {
+      "url": "https://www.chumbak.com/products/island-getaway-travel-tin-candle",
+      "image1": "https://www.chumbak.com/cdn/shop/products/24_3_13.jpg?v=1673914305&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605071546_1.jpg?v=1673882815&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Island Getaway Tin Candle",
+      "price": "₹ 595",
+      "product_reviews_url": "https://www.chumbak.com/products/island-getaway-travel-tin-candle#shopify-product-reviews",
+      "rating": 4,
+      "id": "62ad"
+    },
+    {
+      "url": "https://www.chumbak.com/products/vintage-bicycle-copper-tumbler",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605071515_1.jpg?v=1673366402&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605071515_2.jpg?v=1673367117&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Boho Cycle Copper Tumbler - Small",
+      "price": "₹ 695",
+      "id": "42af"
+    },
+    {
+      "url": "https://www.chumbak.com/products/peony-margarita-travel-tin-candle",
+      "image1": "https://www.chumbak.com/cdn/shop/products/21_4_23.jpg?v=1673695257&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605071416_1.jpg?v=1673695254&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Peony Margarita Tin Candle",
+      "price": "₹ 595",
+      "product_reviews_url": "https://www.chumbak.com/products/peony-margarita-travel-tin-candle#shopify-product-reviews",
+      "rating": 5,
+      "id": "27b7"
+    },
+    {
+      "url": "https://www.chumbak.com/products/nocturnal-sensibilities-green-wall-plate",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605067396_top2_fc706415-e02d-427d-bae6-2738f2ec98f2.jpg?v=1689226818&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605067396_plus1_4.jpg?v=1689226818&width=1000",
+      "button_text": "ADD TO CART",
+      "product_name": "Garden Owl Wall Plate",
+      "price": "₹ 1,035",
+      "discount": "Save 20%",
+      "original_price": "₹ 1,295",
+      "regular_price": "₹ 1,295",
+      "id": "9e8e"
+    }
+  ],
+  "Product": [
+    {
+      "product_url": "https://www.chumbak.com/products/breakfast-table",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605036507_top_843734f4-9375-449d-9d24-9d02f4c7d605.jpg?v=1710839075&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605057069_top_6_dc4afe6a-1d11-4208-83bf-ae3c3a67c55c.jpg?v=1710839100&width=1000",
+      "action": "Choose options",
+      "name": "Fun Foldable Breakfast Table",
+      "price_from": "₹ 1,500",
+      "price_regular": "₹ 2,995",
+      "discount": "Save 30%",
+      "id": "847f"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/nawaab-bench-dragon-fruit",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605134845_1.jpg?v=1710764101&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605134845_2.jpg?v=1710764101&width=1000",
+      "action": "ADD TO CART",
+      "name": "Nawaab Bench - Dragon Fruit",
+      "price": "₹ 7,695",
+      "price_regular": "₹ 10,995",
+      "discount": "Save 30%",
+      "id": "5a07"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/nawaab-bench-indian-summer",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605135873_1.jpg?v=1710763870&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605135873_2.jpg?v=1710763870&width=1024",
+      "action": "ADD TO CART",
+      "name": "Nawaab Bench - Indian Summer",
+      "price": "₹ 7,695",
+      "price_regular": "₹ 10,995",
+      "discount": "Save 30%",
+      "id": "9a4c"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/french-pouffe-indian-summer",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605135866_1.jpg?v=1710757793&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605135866_2.jpg?v=1710757793&width=1000",
+      "action": "ADD TO CART",
+      "name": "French Pouffe - Indian Summer",
+      "price": "₹ 4,895",
+      "price_regular": "₹ 6,995",
+      "discount": "Save 40%",
+      "id": "46f5"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/french-pouffe-dragon-fruit",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605126833_1.jpg?v=1710757680&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605126833_2.jpg?v=1710757680&width=1000",
+      "action": "ADD TO CART",
+      "name": "French Pouffe - Dragon Fruit",
+      "price": "₹ 4,195",
+      "price_regular": "₹ 6,995",
+      "discount": "Save 30%",
+      "id": "7f7c"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/begum-foot-rest-dragon-fruit",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605128523_1.jpg?v=1710757484&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605128523_2.jpg?v=1710757483&width=1000",
+      "action": "ADD TO CART",
+      "name": "Begum Foot Rest - Dragon Fruit",
+      "price": "₹ 3,845",
+      "price_regular": "₹ 5,495",
+      "discount": "Save 30%",
+      "id": "1f5d"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/jodhpur-bench-indian-summer",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605135897_1.jpg?v=1710757427&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605135897_2.jpg?v=1710757427&width=1000",
+      "action": "ADD TO CART",
+      "name": "Jodhpur Bench - Indian Summer",
+      "price": "₹ 6,295",
+      "price_regular": "₹ 8,995",
+      "discount": "Save 30%",
+      "id": "05e1"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/jodhpur-bench-dragon-fruit",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605135880_1.jpg?v=1710757264&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605135880_2.jpg?v=1710757265&width=1000",
+      "action": "ADD TO CART",
+      "name": "Jodhpur Bench - Dragon Fruit",
+      "price": "₹ 6,295",
+      "price_regular": "₹ 8,995",
+      "discount": "Regular price",
+      "id": "81f2"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/desi-doodles-enamel-pin-set-1",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131097_1.jpg?v=1709202835&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131097_2.jpg?v=1709202836&width=1000",
+      "action": "ADD TO CART",
+      "name": "Desi Doodles Enamel Pin Set",
+      "price": "₹ 995",
+      "discount": "Regular price",
+      "id": "078a"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/desi-doodles-enamel-pin-set",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131080_1.jpg?v=1709201891&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131080_2.jpg?v=1709201893&width=1000",
+      "action": "ADD TO CART",
+      "name": "Desi Doodles Enamel Pin Set",
+      "price": "₹ 995",
+      "discount": "Regular price",
+      "id": "efdb"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/soya-wax-candles",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131448_1_aa77bf8a-ddd8-4b31-86bb-1dd8b7804f2d.jpg?v=1708430429&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131455_1_5db2cacf-6d3a-47fd-935f-71b544da4bac.jpg?v=1708430746&width=1000",
+      "action": "Choose options",
+      "name": "Soya Wax Candles",
+      "price_from": "₹ 635",
+      "price_regular": "₹ 795",
+      "discount": "Save 20%",
+      "id": "f041"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/hamsa-memo-board",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605130243_1.jpg?v=1707482151&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605130243_2.jpg?v=1707482150&width=1000",
+      "action": "ADD TO CART",
+      "name": "Hamsa Memo Board",
+      "price": "₹ 1,255",
+      "price_regular": "₹ 1,795",
+      "discount": "Save 30%",
+      "id": "4410"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/dot-stripes-essentials-large-2-piece-planter-set",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131004_1.jpg?v=1705410787&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131004_2.jpg?v=1705410788&width=1000",
+      "action": "ADD TO CART",
+      "name": "Dot & Stripes Essentials (Large) – 2 piece Planter Set",
+      "price": "₹ 1,035",
+      "price_regular": "₹ 1,295",
+      "discount": "Save 20%",
+      "id": "45f2"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/mid-century-modern-foot-rest-bohemian-paisley",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605112782_1.jpg?v=1705410759&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605112782_2.jpg?v=1705410758&width=1000",
+      "action": "ADD TO CART",
+      "name": "Mid Century Modern Foot Rest - Bohemian Paisley",
+      "price": "₹ 5,945",
+      "price_regular": "₹ 8,495",
+      "discount": "Save 30%",
+      "id": "f680"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/mid-century-modern-wing-chair-bohemian-paisley",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605126642_1.jpg?v=1705410739&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605126642_2.jpg?v=1705410738&width=1000",
+      "action": "ADD TO CART",
+      "name": "Mid Century Modern Wing Chair-Bohemian Paisley",
+      "price": "₹ 22,045",
+      "price_regular": "₹ 31,495",
+      "discount": "Regular price",
+      "id": "ef92"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/dot-stripes-essentials-tumbler-planter",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605130960_1.jpg?v=1705410835&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605130960_2.jpg?v=1705410835&width=1000",
+      "action": "ADD TO CART",
+      "name": "Dot & Stripes Essentials Tumbler Planter",
+      "price": "₹ 595",
+      "discount": "Regular price",
+      "id": "7a4b"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/mid-century-modern-foot-rest-spring-bloom",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605112669_1.jpg?v=1705410712&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605112669_2.jpg?v=1705410712&width=1000",
+      "action": "ADD TO CART",
+      "name": "Mid Century Modern Foot Rest - Spring Bloom",
+      "price": "₹ 5,945",
+      "price_regular": "₹ 8,495",
+      "discount": "Save 30%",
+      "id": "d637"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/mid-century-modern-foot-rest-floral-swirls",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605112720_1.jpg?v=1705410683&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605112720_2.jpg?v=1705410683&width=1000",
+      "action": "ADD TO CART",
+      "name": "Mid Century Modern Foot Rest - Floral Swirls",
+      "price": "₹ 5,945",
+      "price_regular": "₹ 8,495",
+      "discount": "Save 30%",
+      "id": "0ca8"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/mid-century-modern-wing-chair-spring-bloom",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605112690_1.jpg?v=1705410659&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605112690_2.jpg?v=1705410659&width=1000",
+      "action": "ADD TO CART",
+      "name": "Mid Century Modern Wing Chair - Spring Bloom",
+      "price": "₹ 22,045",
+      "price_regular": "₹ 31,495",
+      "discount": "Save 30%",
+      "id": "28ff"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/mid-century-modern-wing-chair-floral-swirls",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605112751_1.jpg?v=1705410571&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605112751_2.jpg?v=1705410571&width=1000",
+      "action": "ADD TO CART",
+      "name": "Mid Century Modern Wing Chair-Floral Swirls",
+      "price": "₹ 22,045",
+      "price_regular": "₹ 31,495",
+      "discount": "Save 30%",
+      "id": "737e"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/cities-of-india-tin-candles-gift-box-set-of-4",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605133282_2.jpg?v=1706179519&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605133282_1.jpg?v=1706179519&width=1000",
+      "action": "ADD TO CART",
+      "name": "Cities of India Tin Candles Gift Box | Set of 4",
+      "price": "₹ 1,295",
+      "discount": "Regular price",
+      "id": "f874"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/green-tea-bergamot-soy-wax-candle",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131462_1.jpg?v=1704976667&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131462_2_6180991f-5241-4585-a853-456ab3af8bdb.jpg?v=1704976667&width=1000",
+      "action": "ADD TO CART",
+      "name": "Green Tea & Bergamot Soy Wax Candle, 265g",
+      "price": "₹ 795",
+      "price_regular": "₹ 995",
+      "discount": "Regular price",
+      "id": "bc13"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/lemon-verbena-soy-wax-candle",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131479_1.jpg?v=1704976663&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131479_2_d37a58a6-e9ce-4bf0-9fc2-55e92c61d4f8.jpg?v=1704976663&width=1000",
+      "action": "ADD TO CART",
+      "name": "Lemon Verbena Soy Wax Candle, 265g",
+      "price": "₹ 795",
+      "price_regular": "₹ 995",
+      "discount": "Regular price",
+      "id": "0bf7"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/cedar-jasmine-soy-wax-candle",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131486_1.jpg?v=1704976660&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131486_2_83684f79-890a-4291-a97c-77ccab84acf2.jpg?v=1704976660&width=1000",
+      "action": "ADD TO CART",
+      "name": "Cedar Jasmine Soy Wax Candle, 265g",
+      "price": "₹ 795",
+      "price_regular": "₹ 995",
+      "discount": "Regular price",
+      "id": "72ca"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/apple-cinnamon-soy-wax-candle",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131493_3.jpg?v=1712210842&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131493_2_c9d8dedc-0fdd-4d7f-910a-ef6691002427.jpg?v=1704976616&width=1000",
+      "action": "ADD TO CART",
+      "name": "Apple Cinnamon Soy Wax Candle, 265g",
+      "price": "₹ 795",
+      "price_regular": "₹ 995",
+      "discount": "Regular price",
+      "id": "c593"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/white-tea-pomegranate-soy-wax-candle",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131455_1.jpg?v=1704976670&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131455_2_87ae3903-238d-4e69-a20f-fd1349cf6bb0.jpg?v=1704976670&width=1000",
+      "action": "ADD TO CART",
+      "name": "White Tea & Pomegranate Soy Wax Candle, 265g",
+      "price": "₹ 795",
+      "price_regular": "₹ 995",
+      "discount": "Regular price",
+      "id": "9d3d"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/shea-cashmere-soy-wax-candle-large",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131196_1.jpg?v=1704976724&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131196_2.jpg?v=1704976724&width=1000",
+      "action": "ADD TO CART",
+      "name": "Shea Cashmere Soy Wax Candle, 440g",
+      "price": "₹ 1,435",
+      "price_regular": "₹ 1,795",
+      "discount": "Regular price",
+      "id": "3264"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/oud-bergamot-soy-wax-candle-large",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131189_1.jpg?v=1704976729&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131189_2.jpg?v=1704976729&width=1000",
+      "action": "ADD TO CART",
+      "name": "Oud & Bergamot Soy Wax Candle, 440g",
+      "price": "₹ 1,435",
+      "price_regular": "₹ 1,795",
+      "discount": "Regular price",
+      "id": "1781"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/jasmine-tea-soy-wax-candl-large",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605131158_1.jpg?v=1704976738&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605131158_2.jpg?v=1704976738&width=1000",
+      "action": "ADD TO CART",
+      "name": "Jasmine Tea Soy Wax Candle, 440g",
+      "price": "₹ 1,435",
+      "price_regular": "₹ 1,795",
+      "discount": "Regular price",
+      "id": "4354"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/hamsa-hand-chip-dip-platter",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605130571_1.jpg?v=1701854875&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605130571_2.jpg?v=1701854877&width=1000",
+      "action": "ADD TO CART",
+      "name": "Hamsa Hand Chip & Dip Platter",
+      "price": "₹ 2,495",
+      "discount": "Regular price",
+      "id": "93f3"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/hamsa-dream-catcher-with-tealight-holder-gold",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129605_1.jpg?v=1700655235&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129605_2.jpg?v=1700655235&width=1000",
+      "action": "ADD TO CART",
+      "name": "Hamsa Dream Catcher with Tealight Holder - Gold",
+      "price": "₹ 1,035",
+      "price_regular": "₹ 1,295",
+      "discount": "Regular price",
+      "id": "701c"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/classic-owl-dream-catcher-gold",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129612_1.jpg?v=1700655166&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129612_2.jpg?v=1700655166&width=1000",
+      "action": "ADD TO CART",
+      "name": "Classic Owl Dream Catcher - Gold",
+      "price": "₹ 1,035",
+      "price_regular": "₹ 1,295",
+      "discount": "Regular price",
+      "id": "3f4b"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/tree-of-life-cushion-cover-16",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605134883_1.jpg?v=1700655590&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605134883_2.jpg?v=1700655589&width=1000",
+      "action": "ADD TO CART",
+      "name": "Tree of Life Cushion Cover 16\"",
+      "price": "₹ 1,035",
+      "price_regular": "₹ 1,295",
+      "discount": "Regular price",
+      "id": "631c"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/jamboree-cushion-cover-16",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605134869_1.jpg?v=1700655693&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605134869_2.jpg?v=1700655694&width=1000",
+      "action": "ADD TO CART",
+      "name": "Jamboree Cushion Cover 16\"",
+      "price": "₹ 475",
+      "price_regular": "₹ 595",
+      "discount": "Regular price",
+      "id": "78a7"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-jaipuri-bedsheet-red-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605128950_1.jpg?v=1700562844&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605128950_2.jpg?v=1700562844&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Jaipuri Bedsheet, Red - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "7324"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-pixel-florals-bedsheet-red-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605128974_1.jpg?v=1700560621&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605128974_2.jpg?v=1700560620&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Pixel Florals Bedsheet, Red - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "4ed1"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/pixel-paisley-bath-accessories-set-of-2",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129674_1.jpg?v=1699524780&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129674_2.jpg?v=1699524781&width=1000",
+      "action": "ADD TO CART",
+      "name": "Soap Dispenser & Tumbler Set | Pixel Paisley",
+      "price": "₹ 1,595",
+      "price_regular": "₹ 1,995",
+      "discount": "Regular price",
+      "id": "1037"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/ikat-bath-accessories-set-of-2",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129667_1.jpg?v=1699524723&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129667_2.jpg?v=1699524724&width=1000",
+      "action": "ADD TO CART",
+      "name": "Soap Dispenser & Tumbler Set | Ikat",
+      "price": "₹ 1,595",
+      "price_regular": "₹ 1,995",
+      "discount": "Regular price",
+      "id": "655a"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/dragonfruit-bath-accessories-set-of-2",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129643_1.jpg?v=1699524564&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129643_2.jpg?v=1699524564&width=1000",
+      "action": "ADD TO CART",
+      "name": "Soap Dispenser & Tumbler Set | Dragonfruit",
+      "price": "₹ 1,595",
+      "price_regular": "₹ 1,995",
+      "discount": "Save 38%",
+      "id": "f8bf"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-persian-pottery-bedsheet-teal-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129148_1.jpg?v=1700560549&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129148_2.jpg?v=1700560548&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Persian Pottery Bedsheet, Teal - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "d6fa"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-big-bloom-bedsheet-red-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129117_1.jpg?v=1700560474&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129117_2.jpg?v=1700560474&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Big Bloom Bedsheet, Red - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "6d20"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-classic-tone-on-tone-bedsheet-teal-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129094_1.jpg?v=1700560444&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129094_2.jpg?v=1700560436&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Classic Tone-on-Tone Bedsheet, Teal - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "20ec"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-paisely-bedsheet-pink-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129063_1.jpg?v=1700560406&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129063_2.jpg?v=1700560405&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Paisely Bedsheet, Pink - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "7866"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-sunshine-bloom-bedsheet-orange-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129032_1.jpg?v=1705484513&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129032_2.jpg?v=1705484512&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Sunshine Bloom Bedsheet, Orange - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "018f"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-pixel-florals-bedsheet-teal-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605128967_1.jpg?v=1700560328&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605128967_2.jpg?v=1700560329&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Pixel Florals  Bedsheet, Teal - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "7328"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-sunshine-bloom-bedsheet-red-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129025_1.jpg?v=1700560290&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129025_2.jpg?v=1700560289&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Sunshine Bloom Bedsheet, Red - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "05e4"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-ikat-glow-bedsheet-red-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129018_1.jpg?v=1700560250&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129018_2.jpg?v=1700560250&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Ikat Glow  Bedsheet, Red - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "8bbf"
+    },
+    {
+      "product_url": "https://www.chumbak.com/products/teal-by-chumbak-ikat-glow-bedsheet-teal-queen-size-104-tc",
+      "image_url_1": "https://www.chumbak.com/cdn/shop/files/8907605129001_1.jpg?v=1700560209&width=1000",
+      "image_url_2": "https://www.chumbak.com/cdn/shop/files/8907605129001_2.jpg?v=1700560209&width=1000",
+      "action": "ADD TO CART",
+      "name": "TEAL by Chumbak Ikat Glow  Bedsheet, Teal - Queen size, 104 TC",
+      "price": "₹ 995",
+      "price_regular": "₹ 1,595",
+      "discount": "Save 38%",
+      "id": "f411"
+    }
+  ],
+  "Bag": [
+    {
+      "name": "Explorer Backpack | Batik Patchwork",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135057_1.jpg?v=1714728626&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605135057_2.jpg?v=1714728626&width=1000",
+      "url": "https://www.chumbak.com/products/explorer-backpack-batik-patchwork",
+      "price": "₹ 3,595",
+      "status": "",
+      "id": "42d4"
+    },
+    {
+      "name": "Explorer Sling-cum-Handbag | Palm Springs",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131721_1_66478b35-61ca-45f6-bca0-38cb43e31211.jpg?v=1715334198&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131721_2_84f7bbfb-da1c-41a6-b67f-e269ef8a68dc.jpg?v=1715334199&width=1000",
+      "url": "https://www.chumbak.com/products/explorer-sling-cum-handbag-palm-springs",
+      "price": "₹ 1,995",
+      "status": "NEW ARRIVAL",
+      "id": "e8d7"
+    },
+    {
+      "name": "Explorer Sling-cum-Handbag | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131684_1_5303f191-85e4-45d9-9493-6730f73592c0.jpg?v=1715334268&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131684_2_748e4292-2133-4de5-8b5b-f4265e5cda1b.jpg?v=1715334266&width=1000",
+      "url": "https://www.chumbak.com/products/explorer-sling-cum-handbag-pasiley-tusker",
+      "price": "₹ 1,995",
+      "status": "NEW ARRIVAL",
+      "id": "e062"
+    },
+    {
+      "name": "Explorer Sling-cum-Handbag| Batik Bloom",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131653_1_23ab845d-15a8-4eb5-8213-9c6d605ecd81.jpg?v=1715334309&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131653_2_edeb2154-1e3f-49e3-9444-ff52c85a1c98.jpg?v=1715334309&width=1000",
+      "url": "https://www.chumbak.com/products/explorer-sling-cum-handbag-batik-bloom",
+      "price": "₹ 1,995",
+      "status": "NEW ARRIVAL",
+      "id": "b1eb"
+    },
+    {
+      "name": "Mini Resort Crossbody Bag | Palm Springs",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131714_1_4be7d249-018a-41f6-8349-974623f24ece.jpg?v=1715334350&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131714_2_973fb240-059a-4f36-b6d1-6a43c9c0b00f.jpg?v=1715334348&width=1000",
+      "url": "https://www.chumbak.com/products/mini-resort-crossbody-bag-palm-springs",
+      "price": "₹ 1,995",
+      "status": "NEW ARRIVAL",
+      "id": "004f"
+    },
+    {
+      "name": "Mini Resort Crossbody Bag | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131691_1_5dd12cc1-1c95-41bd-b629-22e81abb6ec6.jpg?v=1715334513&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131691_2_9de02064-fc18-4140-82c2-30a844e408e6.jpg?v=1715334511&width=1000",
+      "url": "https://www.chumbak.com/products/mini-resort-crossbody-bag-paisley-tusker",
+      "price": "₹ 1,995",
+      "status": "NEW ARRIVAL",
+      "id": "f865"
+    },
+    {
+      "name": "Mini Resort Crossbody Bag | Batik Patchwork",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131646_1_f7f461c8-e0e4-4d95-bb2d-e880c5a9f1f8.jpg?v=1715334552&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131646_2_87c71a4c-f33f-45d4-8d32-48e0e9b6f44f.jpg?v=1715334551&width=1000",
+      "url": "https://www.chumbak.com/products/mini-resort-crossbody-bag-batik-patchwork",
+      "price": "₹ 1,995",
+      "status": "NEW ARRIVAL",
+      "id": "4ec9"
+    },
+    {
+      "name": "Travel Tote | Batik Bloom",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131578_1_18108cae-0f91-4b1c-a965-d4964eaa054e.jpg?v=1715334639&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131578_2_522543fc-e6e2-46c2-8365-fd80c43d601f.jpg?v=1715334641&width=1000",
+      "url": "https://www.chumbak.com/products/travel-tote-batik-bloom",
+      "price": "₹ 3,795",
+      "status": "NEW ARRIVAL",
+      "id": "89ba"
+    },
+    {
+      "name": "Travel Tote | Palm Springs",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131561_1_f8b16eed-76bb-4fe2-a425-228bedad6ccf.jpg?v=1715334696&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131561_2_a1c0f8b2-4f26-47b7-b4f0-73160f3b36b3.jpg?v=1715334695&width=1000",
+      "url": "https://www.chumbak.com/products/travel-tote-palm-springs",
+      "price": "₹ 3,795",
+      "status": "NEW ARRIVAL",
+      "id": "4b1c"
+    },
+    {
+      "name": "Weekend Athleisure Bag | Batik Bloom",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131523_1_82ddbeac-0ae2-4ed5-a365-5b31725471e6.jpg?v=1715334755&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131523_2_2310c3ab-aa8e-402a-9d04-a2973e8acb17.jpg?v=1715334756&width=1000",
+      "url": "https://www.chumbak.com/products/weekend-athleisure-bag-batik-bloom",
+      "price": "₹ 3,295",
+      "status": "NEW ARRIVAL",
+      "id": "27d9"
+    },
+    {
+      "name": "Weekend Athleisure Bag | Palm Springs - Pink",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131547_1_9b00303c-649b-4ff7-9de3-615176bcdf2d.jpg?v=1715335171&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131547_2_4db90db9-1bcf-4862-bd9f-13e9408e89b2.jpg?v=1715335171&width=1000",
+      "url": "https://www.chumbak.com/products/weekend-athleisure-bag-palm-springs-pink",
+      "price": "₹ 3,295",
+      "status": "NEW ARRIVAL",
+      "id": "61e4"
+    },
+    {
+      "name": "Weekend Athleisure Bag | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131530_1_e47bbd04-bca9-4ee4-91e2-197788c3facd.jpg?v=1715335207&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131530_2_3238a0bb-d78d-4e48-869b-06c61488a79b.jpg?v=1715335209&width=1000",
+      "url": "https://www.chumbak.com/products/weekend-athleisure-bag-paisley-tusker",
+      "price": "₹ 3,295",
+      "status": "NEW ARRIVAL",
+      "id": "29c2"
+    },
+    {
+      "name": "Travel Tote | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131554_1_88c1dc89-9b5a-4d59-9cdf-5d363d5ad2f7.jpg?v=1715335260&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131554_2_fee13a4b-3037-4d0c-924e-4b64f2d814e7.jpg?v=1715335262&width=1000",
+      "url": "https://www.chumbak.com/products/travel-tote-pasiley-tusker",
+      "price": "₹ 3,795",
+      "status": "NEW ARRIVAL",
+      "id": "ca83"
+    },
+    {
+      "name": "Office Canvas Tote Bag For Women",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605126017_2_7116d97d-447a-48fd-ab2a-68c65a5a6ef3.jpg?v=1713439936&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605126123_2_34ed55f7-de2e-4c16-8ef2-5661f6abd058.jpg?v=1713439998&width=1000",
+      "url": "https://www.chumbak.com/products/office-canvas-tote-bag-for-women",
+      "price": "₹ 1,750",
+      "discounted_price": "₹ 1,750",
+      "regular_price": "₹ 3,495",
+      "colors": [
+        "Red",
+        "Grey"
+      ],
+      "id": "30de"
+    },
+    {
+      "name": "Office Tote Bag | For Women",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605123771_3_d59bf21b-f744-48d7-9c21-c545d49b84a5.jpg?v=1713436309&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605123818_3_5cff2da3-0e7c-483c-a05a-87bbca2bcec4.jpg?v=1713436348&width=1000",
+      "url": "https://www.chumbak.com/products/office-tote-bag-for-women",
+      "price": "₹ 1,800",
+      "discounted_price": "₹ 1,800",
+      "regular_price": "₹ 3,595",
+      "colors": [
+        "Brown",
+        "Pink"
+      ],
+      "id": "65de"
+    },
+    {
+      "name": "Shopper Tote | Carry Essentials in Style",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605126024_2_950d8fec-fa05-493a-8de6-126dd0d5bb04.jpg?v=1715258620&width=3648",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605126246_2_74eca17d-1b22-4458-a07b-90dab31781af.jpg?v=1715258651&width=1000",
+      "url": "https://www.chumbak.com/products/shopper-tote-bag-for-women",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 1,500",
+      "regular_price": "₹ 2,995",
+      "colors": [
+        "Red",
+        "Blue"
+      ],
+      "id": "68ed"
+    },
+    {
+      "name": "Messenger Crossbody Bag | printed canvas and PU",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605123740_2_c139dcff-845a-4359-a372-dcf212311608.jpg?v=1715067589&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605123832_1.jpg?v=1715067638&width=1000",
+      "url": "https://www.chumbak.com/products/messenger-crossbody-bag-for-women-printed-canvas-and-pu",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 1,500",
+      "regular_price": "₹ 2,995",
+      "colors": [
+        "Brown",
+        "Tan"
+      ],
+      "id": "918c"
+    },
+    {
+      "name": "Shoulder Sling Bag| zipper Closure with single compartment",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605123757_1.jpg?v=1715065881&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605125898_2_b73902ed-e43b-47e1-bb8d-2193bb762673.jpg?v=1715065928&width=1000",
+      "url": "https://www.chumbak.com/products/crossbody-shoulder-sling-bag-for-women-zipper-closure-bag",
+      "price": "₹ 1,150",
+      "discounted_price": "₹ 1,150",
+      "regular_price": "₹ 2,295",
+      "colors": [
+        "Brown",
+        "Navy"
+      ],
+      "id": "4d3c"
+    },
+    {
+      "name": "Crossbody / Classic Sling Bag For Women",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605125829_2_16e5bca5-4fac-4b17-9668-0ec3284d6b1c.jpg?v=1713347239&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605125997_2_0062cdeb-f934-44ca-98a5-4b1b2c108eb7.jpg?v=1713347451&width=1000",
+      "url": "https://www.chumbak.com/products/crossbody-classic-sling-bag-for-women",
+      "price": "₹ 1,000",
+      "discounted_price": "₹ 995",
+      "regular_price": "₹ 1,995",
+      "colors": [
+        "Navy",
+        "Red"
+      ],
+      "id": "8528"
+    },
+    {
+      "name": "Teal by Chumbak Box Sling Bag | Carry all your essentials",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605125775_2_b6173f01-fb31-415c-a098-d400fea2ef58.jpg?v=1713177873&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605125836_2_116b6a07-0a6f-4eb2-b88e-a35e56d454c6.jpg?v=1713177915&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-box-sling-bag-carry-all-your-essentials",
+      "price": "From ₹ 1,250",
+      "discounted_price": "From ₹ 1,250",
+      "regular_price": "₹ 2,495",
+      "colors": [
+        "Yellow",
+        "Navy"
+      ],
+      "id": "4322"
+    },
+    {
+      "name": "Teal by Chumbak Laptop Backpack | Printed Canvas PU and Polyester Lining",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605125942_2_06118404-c336-4a59-93ca-653a3cb7ee1a.jpg?v=1713174790&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605126086_2_7acc30f6-5cb0-470e-81ec-65ee25401ba4.jpg?v=1713174994&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-laptop-backpack-printed-canvas-pu",
+      "price": "₹ 1,650",
+      "discounted_price": "₹ 1,650",
+      "regular_price": "₹ 3,295",
+      "colors": [
+        "Slate Grey",
+        "Grey"
+      ],
+      "id": "b2d6"
+    },
+    {
+      "name": "Teal by Chumbak Tokyo Blooms  Shopper tote",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135453_1.jpg?v=1710746755&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605135453_2.jpg?v=1710746756&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-tokyo-blooms-shopper-tote",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 1,500",
+      "regular_price": "₹ 2,995",
+      "id": "778e"
+    },
+    {
+      "name": "Teal by Chumbak Bukhara Blooms Backpack",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135507_1.jpg?v=1710746672&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605135507_2.jpg?v=1710746673&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-bukhara-blooms-backpack",
+      "price": "₹ 1,650",
+      "discounted_price": "₹ 1,650",
+      "regular_price": "₹ 3,295",
+      "id": "3803"
+    },
+    {
+      "name": "Teal by Chumbak Bukhara Blooms Box Sling Bag",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135491_1.jpg?v=1710746599&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605135491_2.jpg?v=1710746600&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-bukhara-blooms-box-sling-bag",
+      "price": "₹ 1,250",
+      "discounted_price": "₹ 1,250",
+      "regular_price": "₹ 2,495",
+      "id": "db87"
+    },
+    {
+      "name": "Teal by Chumbak Tokyo Blooms Box Sling Bag",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135484_1.jpg?v=1710746549&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605135484_2.jpg?v=1710746549&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-tokyo-blooms-box-sling-bag",
+      "price": "₹ 1,250",
+      "discounted_price": "₹ 1,250",
+      "regular_price": "₹ 2,495",
+      "id": "0f4e"
+    },
+    {
+      "name": "Teal by Chumbak Bukhara Blooms Canvas Tote",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135477_1.jpg?v=1710746376&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605135477_2.jpg?v=1710746377&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-bukhara-blooms-canvas-tote",
+      "price": "₹ 1,750",
+      "discounted_price": "₹ 1,750",
+      "regular_price": "₹ 3,495",
+      "id": "b9f4"
+    },
+    {
+      "name": "Teal by Chumbak Summer Office Tote",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135569_1.jpg?v=1710746097&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605135569_2.jpg?v=1710746116&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-summer-office-tote",
+      "price": "₹ 1,800",
+      "discounted_price": "₹ 1,800",
+      "regular_price": "₹ 3,595",
+      "id": "a624"
+    },
+    {
+      "name": "Teal by Chumbak Owl March Canvas Tote",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135460_1.jpg?v=1710742240&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605135460_2.jpg?v=1710742240&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-owl-march-canvas-tote",
+      "price": "₹ 1,750",
+      "discounted_price": "₹ 1,750",
+      "regular_price": "₹ 3,495",
+      "id": "3d05"
+    },
+    {
+      "name": "Teal by Chumbak Grassland Office Tote",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135446_1.jpg?v=1712819438&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605135446_2.jpg?v=1712819435&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-grassland-office-tote",
+      "price": "₹ 1,800",
+      "discounted_price": "₹ 1,800",
+      "regular_price": "₹ 3,595",
+      "id": "d302"
+    },
+    {
+      "name": "Teal By Chumbak | Shopper Bag",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605133732_1_920e2de4-cf56-41c6-b576-32c4f085280b.jpg?v=1708421781&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605133725_1_f8c81f39-28c6-4bda-b63c-42d807a2359b.jpg?v=1708421894&width=1000",
+      "url": "https://www.chumbak.com/products/copy-of-teal-by-chumbak-tropical-shopper-bag",
+      "price": "From ₹ 355",
+      "discounted_price": "₹ 595",
+      "regular_price": "₹ 595",
+      "id": "a477"
+    },
+    {
+      "name": "Luggage Bag | Chumbak for Assembly",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605133329_1_a069ae8d-f3be-4b87-9a71-3b7b1decf36c.jpg?v=1704264666&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605133329_2_4a4ee891-c9c5-426e-ae7c-3817876a8f0e.jpg?v=1704264666&width=1000",
+      "url": "https://www.chumbak.com/products/palm-olive-trolley-bag",
+      "price": "From ₹ 5,595",
+      "discounted_price": "₹ 6,995",
+      "regular_price": "₹ 6,995",
+      "id": "1cd7"
+    },
+    {
+      "name": "\"Paisley Tusker Luggage, 24\"\"| Chumbak for Assembly\"",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605133336_1.jpg?v=1704264781&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/preview_images/906865fc6a9941d0b15d966801e6dbe6.thumbnail.0000000000.jpg?v=1702559603",
+      "url": "https://www.chumbak.com/products/paisley-tusker-luggage-24-chumbak-for-assembly",
+      "price": "₹ 7,195",
+      "discounted_price": "₹ 8,995",
+      "regular_price": "₹ 8,995",
+      "id": "abd8"
+    },
+    {
+      "name": "\"Paisley Tusker Luggage, 20\"\"| Chumbak for Assembly\"",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605133329_1.jpg?v=1704264754&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/preview_images/45f5dba78199490ab89271211d56f796.thumbnail.0000000000.jpg?v=1702559554",
+      "url": "https://www.chumbak.com/products/paisley-tusker-luggage-20-chumbak-for-assembly",
+      "price": "₹ 5,595",
+      "discounted_price": "₹ 6,995",
+      "regular_price": "₹ 6,995",
+      "id": "1646"
+    },
+    {
+      "name": "Royal Peacock Tote - Brown",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605133367_1.jpg?v=1701343611&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605133367_2.jpg?v=1701343611&width=1000",
+      "url": "https://www.chumbak.com/products/royal-peacock-tote-brown",
+      "price": "₹ 1,605",
+      "discounted_price": "₹ 2,295",
+      "regular_price": "₹ 2,295",
+      "id": "e8d1"
+    },
+    {
+      "name": "Patches & Print Quilted Pouch",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605132865_1.jpg?v=1701342341&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605132865_2.jpg?v=1701342341&width=1000",
+      "url": "https://www.chumbak.com/products/patches-print-quilted-pouch",
+      "price": "₹ 795",
+      "discounted_price": "₹ 995",
+      "regular_price": "₹ 995",
+      "id": "1f55"
+    },
+    {
+      "name": "Travel Diaries Lunch Bag",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131363_1.jpg?v=1701170932&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131363_2.jpg?v=1701170932&width=1000",
+      "url": "https://www.chumbak.com/products/travel-diaries-lunch-bag",
+      "price": "₹ 1,275",
+      "discounted_price": "₹ 1,595",
+      "regular_price": "₹ 1,595",
+      "id": "3e67"
+    },
+    {
+      "name": "Dancing Queens Lunch Bag",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131332_1.jpg?v=1701170344&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131332_2.jpg?v=1701170344&width=1000",
+      "url": "https://www.chumbak.com/products/dancing-queens-lunch-bag",
+      "price": "₹ 1,035",
+      "discounted_price": "₹ 1,295",
+      "regular_price": "₹ 1,295",
+      "id": "607a"
+    },
+    {
+      "name": "Jungle Drama Sling Bag",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131592_1.jpg?v=1699018014&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131592_2.jpg?v=1699018013&width=1000",
+      "url": "https://www.chumbak.com/products/jungle-drama-sling-bag",
+      "price": "₹ 1,815",
+      "discounted_price": "₹ 2,595",
+      "regular_price": "₹ 2,595",
+      "id": "80c2"
+    },
+    {
+      "name": "Jungle Drama Tassel Tote",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131271_1_df317210-8140-4422-a49a-7e4f24619074.jpg?v=1704862516&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131271_2_34d23f66-1067-46ed-bd1d-94a272c49fb5.jpg?v=1704862517&width=1000",
+      "url": "https://www.chumbak.com/products/jungle-drama-tassel-tote",
+      "price": "₹ 2,075",
+      "discounted_price": "₹ 2,595",
+      "regular_price": "₹ 2,595",
+      "id": "d030"
+    },
+    {
+      "name": "Mexico Aztec Bucket Bag",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605130519_1.jpg?v=1699015799&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605130519_2.jpg?v=1699015800&width=1000",
+      "url": "https://www.chumbak.com/products/mexico-aztec-bucket-bag",
+      "price": "₹ 2,075",
+      "discounted_price": "₹ 2,595",
+      "regular_price": "₹ 2,595",
+      "id": "06f7"
+    },
+    {
+      "name": "Palm Springs Quilted Sling  Bag",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131509_1.jpg?v=1699015463&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131509_2.jpg?v=1699015463&width=1000",
+      "url": "https://www.chumbak.com/products/palm-springs-quilted-sling-bag",
+      "price": "₹ 1,815",
+      "discounted_price": "₹ 2,595",
+      "regular_price": "₹ 2,595",
+      "id": "d6c1"
+    },
+    {
+      "name": "Valley Bloom Quilted Sling Bag",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131516_1.jpg?v=1699015310&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131516_2.jpg?v=1699015311&width=1000",
+      "url": "https://www.chumbak.com/products/valley-bloom-quilted-sling-bag",
+      "price": "₹ 1,815",
+      "discounted_price": "₹ 2,595",
+      "regular_price": "₹ 2,595",
+      "id": "e69e"
+    },
+    {
+      "name": "Teal By Chumbak | Lemons Shopper Bag",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605133749_1.jpg?v=1698388358&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605133749_2.jpg?v=1698388359&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-lemons-shopper-bag",
+      "price": "₹ 535",
+      "discounted_price": "₹ 595",
+      "regular_price": "₹ 595",
+      "id": "b7c7"
+    },
+    {
+      "name": "Monochrome Tote & Pouch | Batik Bloom",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128912_1.jpg?v=1695385466&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128912_2.jpg?v=1695385465&width=1000",
+      "url": "https://www.chumbak.com/products/batik-bloom-monochrome-tote-pouch-red",
+      "price": "₹ 2,795",
+      "discounted_price": "₹ 3,495",
+      "regular_price": "₹ 3,495",
+      "id": "5661"
+    },
+    {
+      "name": "Tote | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128905_1.jpg?v=1695385549&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128905_2.jpg?v=1695385550&width=1000",
+      "url": "https://www.chumbak.com/products/india-boho-tote-red",
+      "price": "₹ 2,795",
+      "discounted_price": "₹ 3,495",
+      "regular_price": "₹ 3,495",
+      "id": "dbcc"
+    },
+    {
+      "name": "15 inch Laptop Sleeve | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128653_1.jpg?v=1695385619&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128653_2.jpg?v=1695385619&width=1000",
+      "url": "https://www.chumbak.com/products/india-boho-laptop-sleeve-red-15inch",
+      "price": "₹ 1,995",
+      "discounted_price": "₹ 2,495",
+      "regular_price": "₹ 2,495",
+      "id": "b008"
+    },
+    {
+      "name": "13.5 inch Laptop Sleeve | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128646_1.jpg?v=1695385724&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128646_2.jpg?v=1695385726&width=1000",
+      "url": "https://www.chumbak.com/products/india-boho-laptop-sleeve-red-13-5inch",
+      "price": "₹ 1,835",
+      "discounted_price": "₹ 2,295",
+      "regular_price": "₹ 2,295",
+      "id": "cd9a"
+    },
+    {
+      "name": "13.5 inch Laptop Sleeve | Batik Bloom",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128622_1.jpg?v=1695385992&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128622_2.jpg?v=1695385992&width=1000",
+      "url": "https://www.chumbak.com/products/batik-bloom-laptop-sleeve-navy-13-5inch",
+      "price": "₹ 1,835",
+      "discounted_price": "₹ 2,295",
+      "regular_price": "₹ 2,295",
+      "id": "abf3"
+    }
+  ],
+  "Watches": [
+    {
+      "name": "SmartWatch",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605121692_2_9ef4e6a3-3dc2-4058-bb78-568dd4498a9e.jpg?v=1708083568&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605121685_2_1fea9a6e-b6e7-4faa-8536-0279d2e65f85.jpg?v=1708083702&width=1000",
+      "url": "https://www.chumbak.com/products/smartwatch",
+      "price": "From ₹ 2,400",
+      "discounted_price": "₹ 3,999",
+      "rating": null,
+      "id": "b83f"
+    },
+    {
+      "name": "Teal by Chumbak Kilim Watch Metal Mesh Strap - Pink",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605129582_1.jpg?v=1702381188&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605129582_2_61ab8a18-6f95-4de1-bb2a-e9c31f590b40.jpg?v=1702556590&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-kilim-watch-metal-mesh-strap-pink",
+      "price": "₹ 1,750",
+      "discounted_price": "₹ 3,495",
+      "rating": "5.0",
+      "id": "4bf1"
+    },
+    {
+      "name": "Teal by Chumbak Peacock Peeper Watch | Metal Mesh Strap - Gold",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605129506_1.jpg?v=1702381175&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605129506_2_509708a5-0dda-4da6-9d7a-9d25ae052723.jpg?v=1702556440&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-peacock-peeper-watch-metal-mesh-strap-gold",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": null,
+      "id": "d46c"
+    },
+    {
+      "name": "Teal by Chumbak Tiger-Tiger Watch | Metal Mesh Strap - Gold",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605124815_1.jpg?v=1702380916&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605124815_2_b058adb5-fdfb-457b-a8eb-a841a9cde762.jpg?v=1702556366&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-tiger-tiger-watch-metal-mesh-strap-gold",
+      "price": "₹ 1,750",
+      "discounted_price": "₹ 3,495",
+      "rating": null,
+      "id": "c645"
+    },
+    {
+      "name": "Teal by Chumbak Spring Watch | Metal Link Strap - Rose Gold",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605125034_1_6ed9e081-6acb-4737-ba98-61cce7fdbeaa.jpg?v=1702556338&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605125034_1.jpg?v=1702556338&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-spring-watch-metal-link-strap-rose-gold",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": null,
+      "id": "e3dc"
+    },
+    {
+      "name": "Teal by Chumbak Spring Watch | Metal Link Strap - Silver",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605125027_1.jpg?v=1702380040&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605125027_2_96ed8b2f-971d-4fce-87f3-9d4578cea611.jpg?v=1702556307&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-spring-watch-metal-link-strap-silver",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": null,
+      "id": "ff1a"
+    },
+    {
+      "name": "Chumbak Smartwatch for Women- Mosaic",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605121692_2.jpg?v=1712912445&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605121692_1.jpg?v=1712912445&width=1000",
+      "url": "https://www.chumbak.com/products/chumbak-smartwatch-for-women",
+      "price": "₹ 2,400",
+      "discounted_price": "₹ 3,999",
+      "rating": "5.0",
+      "id": "5895"
+    },
+    {
+      "name": "Chumbak Smartwatch - Rainforest",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605121685_2.jpg?v=1712912458&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605121685_1.jpg?v=1712912458&width=1000",
+      "url": "https://www.chumbak.com/products/chumbak-smartwatch-rainforest",
+      "price": "₹ 2,400",
+      "discounted_price": "₹ 3,999",
+      "rating": "4.0",
+      "id": "0e3f"
+    },
+    {
+      "name": "Chumbak Smartwatch - Bloom",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605121678_2.jpg?v=1712912463&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605121678_1.jpg?v=1712912463&width=1000",
+      "url": "https://www.chumbak.com/products/chumbak-smartwatch-bloom",
+      "price": "₹ 2,400",
+      "discounted_price": "₹ 3,999",
+      "rating": "3.9",
+      "id": "0f4a"
+    },
+    {
+      "name": "Chumbak Smartwatch - Wilderness",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605121661_2.jpg?v=1712912468&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/WildernessWatch-01.jpg?v=1712912468&width=1000",
+      "url": "https://www.chumbak.com/products/chumbak-smartwatch-wilderness",
+      "price": "₹ 2,800",
+      "discounted_price": "₹ 3,999",
+      "rating": "4.2",
+      "id": "30d5"
+    },
+    {
+      "name": "Teal by Chumbak Daily Hustle Watch, Stainless Steel Mesh Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128783_01.jpg?v=1688732710&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128783_02.jpg?v=1688732710&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-daily-hustle-watch-stainless-steel-mesh-strap",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": null,
+      "id": "7db5"
+    },
+    {
+      "name": "Teal by Chumbak Carnival Cat Watch, Stainless Steel Link Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128769_01.jpg?v=1688732600&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128769_02.jpg?v=1688732600&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-carnival-cat-watch-stainless-steel-link-strap",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "5.0",
+      "id": "2201"
+    },
+    {
+      "name": "Teal by Chumbak Carnival Cat Watch, Stainless Steel Mesh Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128752_01.jpg?v=1688732521&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128752_02.jpg?v=1688732521&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-carnival-cat-watch-stainless-steel-mesh-strap",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": null,
+      "id": "0ce4"
+    },
+    {
+      "name": "Teal by Chumbak Being Catty Watch, Stainless Steel Link Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128745_01.jpg?v=1688732466&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128745_02.jpg?v=1688732466&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-being-catty-watch-stainless-steel-link-strap",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": null,
+      "id": "239d"
+    },
+    {
+      "name": "Teal by Chumbak Being Catty Watch, Stainless Steel Mesh Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128738_01.jpg?v=1688732417&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128738_02.jpg?v=1688732418&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-being-catty-watch-stainless-steel-mesh-strap",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": null,
+      "id": "ed15"
+    },
+    {
+      "name": "Teal by Chumbak Paisley Watch, Stainless Steel Link Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128431_01.jpg?v=1688731419&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128431_02.jpg?v=1688731418&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-paisley-watch-stainless-steel-link-strap",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": null,
+      "id": "537d"
+    },
+    {
+      "name": "Teal by Chumbak Paisley Watch, Stainless Steel Mesh Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128424_01.jpg?v=1688729189&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128424_02.jpg?v=1688729189&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-paisley-watch-stainless-steel-mesh-strap",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": null,
+      "id": "e4df"
+    },
+    {
+      "name": "Teal by Chumbak Chevron Watch, Stainless Steel Mesh Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128400_01.jpg?v=1688728307&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128400_02.jpg?v=1688728308&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-chevron-watch-stainless-steel-mesh-strap",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": null,
+      "id": "654b"
+    },
+    {
+      "name": "Teal by Chumbak Strawberry Ice Stripes Wrist Watch",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605051920-1.jpg?v=1678857145&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605051920-2.jpg?v=1678857145&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-strawberry-ice-stripes-wrist-watch",
+      "price": "₹ 1,300",
+      "discounted_price": "₹ 2,595",
+      "rating": null,
+      "id": "6b0e"
+    },
+    {
+      "name": "TEAL by Chumbak Lush Blooms Watch- Red",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605120220_1.jpg?v=1673680315&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605120220_2.jpg?v=1673680312&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-lush-blooms-watch-red",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "4.0",
+      "id": "436e"
+    },
+    {
+      "name": "TEAL by Chumbak Indie Aztec Watch- Green",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605119071_2.jpg?v=1712912490&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605119071_1.jpg?v=1712912490&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-indie-aztec-watch-green",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "5.0",
+      "id": "ff2e"
+    },
+    {
+      "name": "TEAL by Chumbak Botenicals Watch-Silver",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605118678_2.jpg?v=1712912505&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605118678_1.jpg?v=1712912505&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-botenicals-watch-silver",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "5.0",
+      "id": "62bd"
+    },
+    {
+      "name": "TEAL by Chumbak Lets Get Lost Watch,Metal link Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605117435_7.jpg?v=1712912523&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605117435_1.jpg?v=1712912523&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-lets-get-lost-watch-metal-link-strap",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": null,
+      "id": "b7f7"
+    },
+    {
+      "name": "TEAL by Chumbak Lets Get Lost Watch,Metal Mesh Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605117428_7.jpg?v=1712912528&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605117428_1.jpg?v=1712912528&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-lets-get-lost-watch-metal-mesh-strap",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": "4.5",
+      "id": "8071"
+    },
+    {
+      "name": "TEAL by Chumbak Forest Jade Watch, Metal Mesh Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605117329_7.jpg?v=1712912557&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605117329_1.jpg?v=1712912557&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-forest-jade-watch-metal-mesh-strap",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": "4.0",
+      "id": "d278"
+    },
+    {
+      "name": "TEAL by Chumbak Jungle Flowers Watch, Metal link Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605117299_7.jpg?v=1712912572&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605117299_1.jpg?v=1712912572&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-jungle-flowers-watch-metal-link-strap",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "3.6",
+      "id": "fd5d"
+    },
+    {
+      "name": "TEAL by Chumbak Vintage Owl Watch, Metal link Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605117510_7.jpg?v=1712912581&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605117510_1.jpg?v=1712912581&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-vintage-owl-watch-metal-link-strap",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "5.0",
+      "id": "f608"
+    },
+    {
+      "name": "TEAL by Chumbak Vintage Owl Watch, Metal Mesh Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605117503_7.jpg?v=1712912586&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605117503_1.jpg?v=1712912586&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-vintage-owl-watch-metal-mesh-strap",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": "5.0",
+      "id": "f0b5"
+    },
+    {
+      "name": "TEAL by Chumbak Bohemian Leaves  Watch,Metal link Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605117459_7.jpg?v=1712912590&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605117459_1.jpg?v=1712912590&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-bohemian-leaves-watch-metal-link-strap",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "3.9",
+      "id": "0b27"
+    },
+    {
+      "name": "TEAL by Chumbak Bohemian Leaves  Watch,Metal Mesh Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605117442_7.jpg?v=1712912594&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605117442_1.jpg?v=1712912594&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-bohemian-leaves-watch-metal-mesh-strap",
+      "price": "₹ 1,500",
+      "discounted_price": "₹ 2,995",
+      "rating": null,
+      "id": "1594"
+    },
+    {
+      "name": "TEAL by Chumbak Strong is the new pretty Watch,Metal link Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605117374_7.jpg?v=1712912601&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605117374_1.jpg?v=1712912601&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-strong-is-the-new-pretty-watch-metal-link-strap",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "5.0",
+      "id": "ad61"
+    },
+    {
+      "name": "TEAL by Chumbak Sunset Ombre Watch, Metal link Strap",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605117275_7.jpg?v=1712912614&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605117275_1.jpg?v=1712912610&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-sunset-ombre-watch-metal-link-strap",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "3.5",
+      "id": "7cf6"
+    },
+    {
+      "name": "TEAL by Chumbak Ombre Aztec Watch-Peach",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605116643_6.jpg?v=1712912621&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605116643_1.jpg?v=1712912621&width=1000",
+      "url": "https://www.chumbak.com/products/teal-by-chumbak-ombre-aztec-watch-peach",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "4.5",
+      "id": "23ad"
+    },
+    {
+      "name": "Foxy Studs - Diamond",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605105135_51.png?v=1673939144&width=1001",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605105135_53.png?v=1673939141&width=1000",
+      "url": "https://www.chumbak.com/products/ic089-earring",
+      "price": "₹ 750",
+      "discounted_price": "₹ 1,495",
+      "rating": null,
+      "id": "cf67"
+    },
+    {
+      "name": "Lady Bird Studs – Red Garnet",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605105111_51.png?v=1673857260&width=1001",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605105111_53.png?v=1673857257&width=1000",
+      "url": "https://www.chumbak.com/products/ic086-earring",
+      "price": "₹ 1,000",
+      "discounted_price": "₹ 1,995",
+      "rating": null,
+      "id": "5051"
+    },
+    {
+      "name": "Diamond Peepers Earrings - Diamond",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605105036_51.png?v=1674049861&width=1001",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605105036_53.png?v=1674049857&width=1000",
+      "url": "https://www.chumbak.com/products/ic076-earring",
+      "price": "₹ 895",
+      "discounted_price": "₹ 1,495",
+      "rating": null,
+      "id": "b0a3"
+    },
+    {
+      "name": "Flying Together Earrings",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605105128_51.png?v=1673980186&width=1001",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605105128_52.png?v=1673980182&width=1000",
+      "url": "https://www.chumbak.com/products/ic088-earring",
+      "price": "₹ 1,000",
+      "discounted_price": "₹ 1,995",
+      "rating": null,
+      "id": "6b13"
+    },
+    {
+      "name": "Fly Away Studs - Moonstone & Diamonds",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605104602_51.png?v=1673479607&width=1001",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605104602_53.png?v=1673980381&width=1000",
+      "url": "https://www.chumbak.com/products/ic016-earring",
+      "price": "₹ 1,195",
+      "discounted_price": "₹ 1,995",
+      "rating": null,
+      "id": "11a1"
+    },
+    {
+      "name": "TEAL by Chumbak Early Blossom Wrist Watch - Rose Gold",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605100468.jpg?v=1687763884&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605100468_plus1.jpg?v=1687763884&width=1000",
+      "url": "https://www.chumbak.com/products/early-blossom-wrist-watch-rose-gold",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "4.0",
+      "id": "f7a2"
+    },
+    {
+      "name": "TEAL by Chumbak Classic Hues Watch Teal & Yellow",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605100093_top50_120579fc-d46e-471b-87d0-a81009ee2742.jpg?v=1689226013&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605100093_plus22.jpg?v=1689226013&width=1000",
+      "url": "https://www.chumbak.com/products/yellow-sunray-wrist-watch",
+      "price": "₹ 1,300",
+      "discounted_price": "₹ 2,595",
+      "rating": "5.0",
+      "id": "d018"
+    },
+    {
+      "name": "TEAL by Chumbak Aztec Strap Wrist Watch",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605100482_top2_93bcb0f3-0404-450a-b603-6b1eb2b2d936.jpg?v=1689225926&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605100482_plus50.jpg?v=1689225926&width=1000",
+      "url": "https://www.chumbak.com/products/aztec-interchangeable-strap-wrist-watch",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": null,
+      "id": "a5f4"
+    },
+    {
+      "name": "TEAL by Chumbak Urban Countryside Watch ' Black",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605100475_top50_7a5c65b9-d1e1-41d8-8a08-5ae29598de0f.jpg?v=1689225385&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605100475_plus22.jpg?v=1689225385&width=1000",
+      "url": "https://www.chumbak.com/products/floral-spout-wrist-watch-navy",
+      "price": "₹ 1,300",
+      "discounted_price": "₹ 2,595",
+      "rating": "5.0",
+      "id": "bfae"
+    },
+    {
+      "name": "TEAL by Chumbak Sunshine State Watch Navy Blue",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605098185_top50_0811826a-1284-4e0d-8a70-694e395d32bc.jpg?v=1689224856&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605098185_plus22.jpg?v=1689224856&width=1000",
+      "url": "https://www.chumbak.com/products/jungle-flowers-printed-strap-wrist-watch-navy-blue",
+      "price": "₹ 1,300",
+      "discounted_price": "₹ 2,595",
+      "rating": "4.3",
+      "id": "0156"
+    },
+    {
+      "name": "Floral Birds Stainless Steel Wrist Watch With Bracelet",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605094033.jpg?v=1689338823&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605094033_top.jpg?v=1689338823&width=1000",
+      "url": "https://www.chumbak.com/products/floral-birds-ss-strap-wrist-watch-and-bracelet-set",
+      "price": "₹ 2,050",
+      "discounted_price": "₹ 4,095",
+      "rating": "5.0",
+      "id": "6d8f"
+    },
+    {
+      "name": "TEAL by Chumbak Sunny Side Up Wrist Watch",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605091353_top.jpg?v=1673997657&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605091353_main.jpg?v=1673997651&width=1000",
+      "url": "https://www.chumbak.com/products/sunny-side-up-wrist-watch",
+      "price": "₹ 1,250",
+      "discounted_price": "₹ 2,495",
+      "rating": null,
+      "id": "1e83"
+    },
+    {
+      "name": "TEAL by Chumbak Leafy Branches Wrist Watch- Teal",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605085581_top.jpg?v=1673588704&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605085581_plus2.jpg?v=1673588698&width=1000",
+      "url": "https://www.chumbak.com/products/leafy-branches-wrist-watch",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": null,
+      "id": "e163"
+    },
+    {
+      "name": "TEAL by Chumbak Strong Is The New Pretty Wrist Watch",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605077760_top50_430efe55-f2c8-498f-ad49-20af75f6f74b.jpg?v=1689225339&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605077760_plus22.jpg?v=1689225339&width=1000",
+      "url": "https://www.chumbak.com/products/strong-is-the-new-pretty-wrist-watch",
+      "price": "₹ 1,400",
+      "discounted_price": "₹ 2,795",
+      "rating": "4.3",
+      "id": "fa75"
+    },
+    {
+      "name": "TEAL by Chumbak Floral Birds Wrist Watch- Pink",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605072079_plus3.jpg?v=1712913536&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/products/8907605072079_top.jpg?v=1712913536&width=1000",
+      "url": "https://www.chumbak.com/products/floral-birds-wrist-watch-pink",
+      "price": "₹ 1,300",
+      "discounted_price": "₹ 2,595",
+      "rating": "4.5",
+      "id": "edb1"
+    }
+  ],
+  "Collection": [
+    {
+      "name": "Bahaar Jewellery Organiser - Mustard",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131066_1.jpg?v=1714385678&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131066_2.jpg?v=1714385677&width=1000",
+      "url": "https://www.chumbak.com/products/bahaar-jewellery-organiser-mustard",
+      "price": "₹ 1,595",
+      "id": "58a4"
+    },
+    {
+      "name": "Bahaar Jewellery Organiser - Pink",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131059_1.jpg?v=1714385812&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131059_2.jpg?v=1714385811&width=1000",
+      "url": "https://www.chumbak.com/products/bahaar-jewellery-organiser-pink",
+      "price": "₹ 1,295",
+      "id": "1d3c"
+    },
+    {
+      "name": "Explorer Backpack | Batik Patchwork",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135057_1.jpg?v=1714728626&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605135057_2.jpg?v=1714728626&width=1000",
+      "url": "https://www.chumbak.com/products/explorer-backpack-batik-patchwork",
+      "price": "₹ 3,595",
+      "id": "77d0"
+    },
+    {
+      "name": "Explorer Sling-cum-Handbag | Palm Springs",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131721_1_66478b35-61ca-45f6-bca0-38cb43e31211.jpg?v=1715334198&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131721_2_84f7bbfb-da1c-41a6-b67f-e269ef8a68dc.jpg?v=1715334199&width=1000",
+      "url": "https://www.chumbak.com/products/explorer-sling-cum-handbag-palm-springs",
+      "price": "₹ 1,995",
+      "id": "666c"
+    },
+    {
+      "name": "Explorer Sling-cum-Handbag| Batik Bloom",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131653_1_23ab845d-15a8-4eb5-8213-9c6d605ecd81.jpg?v=1715334309&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131653_2_edeb2154-1e3f-49e3-9444-ff52c85a1c98.jpg?v=1715334309&width=1000",
+      "url": "https://www.chumbak.com/products/explorer-sling-cum-handbag-batik-bloom",
+      "price": "₹ 1,995",
+      "id": "048e"
+    },
+    {
+      "name": "Explorer Sling-cum-Handbag | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131684_1_5303f191-85e4-45d9-9493-6730f73592c0.jpg?v=1715334268&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131684_2_748e4292-2133-4de5-8b5b-f4265e5cda1b.jpg?v=1715334266&width=1000",
+      "url": "https://www.chumbak.com/products/explorer-sling-cum-handbag-pasiley-tusker",
+      "price": "₹ 1,995",
+      "id": "302d"
+    },
+    {
+      "name": "Mini Resort Crossbody Bag | Palm Springs",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131714_1_4be7d249-018a-41f6-8349-974623f24ece.jpg?v=1715334350&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131714_2_973fb240-059a-4f36-b6d1-6a43c9c0b00f.jpg?v=1715334348&width=1000",
+      "url": "https://www.chumbak.com/products/mini-resort-crossbody-bag-palm-springs",
+      "price": "₹ 1,995",
+      "id": "cac7"
+    },
+    {
+      "name": "Mini Resort Crossbody Bag | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131691_1_5dd12cc1-1c95-41bd-b629-22e81abb6ec6.jpg?v=1715334513&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131691_2_9de02064-fc18-4140-82c2-30a844e408e6.jpg?v=1715334511&width=1000",
+      "url": "https://www.chumbak.com/products/mini-resort-crossbody-bag-paisley-tusker",
+      "price": "₹ 1,995",
+      "id": "f64a"
+    },
+    {
+      "name": "Mini Resort Crossbody Bag | Batik Patchwork",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131646_1_f7f461c8-e0e4-4d95-bb2d-e880c5a9f1f8.jpg?v=1715334552&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131646_2_87c71a4c-f33f-45d4-8d32-48e0e9b6f44f.jpg?v=1715334551&width=1000",
+      "url": "https://www.chumbak.com/products/mini-resort-crossbody-bag-batik-patchwork",
+      "price": "₹ 1,995",
+      "id": "7c11"
+    },
+    {
+      "name": "Travel Tote | Batik Bloom",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131578_1_18108cae-0f91-4b1c-a965-d4964eaa054e.jpg?v=1715334639&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131578_2_522543fc-e6e2-46c2-8365-fd80c43d601f.jpg?v=1715334641&width=1000",
+      "url": "https://www.chumbak.com/products/travel-tote-batik-bloom",
+      "price": "₹ 3,795",
+      "id": "ed04"
+    },
+    {
+      "name": "Travel Tote | Palm Springs",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131561_1_f8b16eed-76bb-4fe2-a425-228bedad6ccf.jpg?v=1715334696&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131561_2_a1c0f8b2-4f26-47b7-b4f0-73160f3b36b3.jpg?v=1715334695&width=1000",
+      "url": "https://www.chumbak.com/products/travel-tote-palm-springs",
+      "price": "₹ 3,795",
+      "id": "537a"
+    },
+    {
+      "name": "Weekend Athleisure Bag | Batik Bloom",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131523_1_82ddbeac-0ae2-4ed5-a365-5b31725471e6.jpg?v=1715334755&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131523_2_2310c3ab-aa8e-402a-9d04-a2973e8acb17.jpg?v=1715334756&width=1000",
+      "url": "https://www.chumbak.com/products/weekend-athleisure-bag-batik-bloom",
+      "price": "₹ 3,295",
+      "id": "4bb4"
+    },
+    {
+      "name": "Weekend Athleisure Bag | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131530_1_e47bbd04-bca9-4ee4-91e2-197788c3facd.jpg?v=1715335207&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131530_2_3238a0bb-d78d-4e48-869b-06c61488a79b.jpg?v=1715335209&width=1000",
+      "url": "https://www.chumbak.com/products/weekend-athleisure-bag-paisley-tusker",
+      "price": "₹ 3,295",
+      "id": "b6b2"
+    },
+    {
+      "name": "Travel Tote | Paisley Tusker",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131554_1_88c1dc89-9b5a-4d59-9cdf-5d363d5ad2f7.jpg?v=1715335260&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131554_2_fee13a4b-3037-4d0c-924e-4b64f2d814e7.jpg?v=1715335262&width=1000",
+      "url": "https://www.chumbak.com/products/travel-tote-pasiley-tusker",
+      "price": "₹ 3,795",
+      "id": "6031"
+    },
+    {
+      "name": "Weekend Athleisure Bag | Palm Springs - Pink",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131547_1_9b00303c-649b-4ff7-9de3-615176bcdf2d.jpg?v=1715335171&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131547_2_4db90db9-1bcf-4862-bd9f-13e9408e89b2.jpg?v=1715335171&width=1000",
+      "url": "https://www.chumbak.com/products/weekend-athleisure-bag-palm-springs-pink",
+      "price": "₹ 3,295",
+      "id": "410f"
+    },
+    {
+      "name": "Awesome Mum | Gift Box - Set of 5",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605136801_2.jpg?v=1714125041&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605136801_6.jpg?v=1714125041&width=2083",
+      "url": "https://www.chumbak.com/products/awesome-mum-gift-box-set-of-5",
+      "price": "₹ 1,295",
+      "id": "8553"
+    },
+    {
+      "name": "Hand painted Copper Tumblers | Drinkware",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605057533_top_4.jpg?v=1712462864&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605071515_1.jpg?v=1712317456&width=1000",
+      "url": "https://www.chumbak.com/products/copper-tumblers",
+      "price": "From ₹ 415",
+      "sale_price": "₹ 695",
+      "regular_price": "₹ 1,115",
+      "id": "8a58"
+    },
+    {
+      "name": "Crafted Copper Travel Bottle & Sipper | Drinkware",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605057519_cafbf271-e559-403f-95be-b70062c24a22.jpg?v=1712051732&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605057502_4bb3a142-5e7b-4924-98a0-5f35014e57d2.jpg?v=1712053619&width=1000",
+      "url": "https://www.chumbak.com/products/copper-bottle-sipper",
+      "price": "From ₹ 1,115",
+      "sale_price": "₹ 1,595",
+      "id": "8074"
+    },
+    {
+      "name": "Printed Coasters & Trivets | Tableware",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605042331_top_4.jpg?v=1712049221&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605091469-1.jpg?v=1712049279&width=1000",
+      "url": "https://www.chumbak.com/products/coasters-trivets",
+      "price": "From ₹ 415",
+      "sale_price": "₹ 595",
+      "id": "25d1"
+    },
+    {
+      "name": "Sip in style Ceramic Tumblers",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605102912_plus6.jpg?v=1712041359&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605127380_1_13f08c21-f94b-4df9-9b44-f96effe38e00.jpg?v=1712041416&width=1000",
+      "url": "https://www.chumbak.com/products/ceramic-tumblers",
+      "price": "From ₹ 395",
+      "sale_price": "₹ 495",
+      "regular_price": "₹ 595",
+      "id": "fb92"
+    },
+    {
+      "name": "Modern & Vibrant Cake Stand | Bake ware",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605103179_main.jpg?v=1712040080&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605127489_1_3b81ca20-6b39-4dc6-9c02-3ff4edd42e47.jpg?v=1712040137&width=1000",
+      "url": "https://www.chumbak.com/products/cake-stand",
+      "price": "From ₹ 1,195",
+      "sale_price": "₹ 1,495",
+      "id": "558e"
+    },
+    {
+      "name": "Elegant Cake Servers | Bake ware",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605069239_1.jpg?v=1712039281&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605127748_1_f939dd8d-2551-47da-ac4b-9e16a63052a6.jpg?v=1712039307&width=1000",
+      "url": "https://www.chumbak.com/products/cake-servers",
+      "price": "From ₹ 895",
+      "sale_price": "₹ 1,495",
+      "id": "e6ff"
+    },
+    {
+      "name": "Desi Doodles Enamel Pin Set",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131097_1.jpg?v=1709202835&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131097_2.jpg?v=1709202836&width=1000",
+      "url": "https://www.chumbak.com/products/desi-doodles-enamel-pin-set-1",
+      "price": "₹ 995",
+      "id": "8e94"
+    },
+    {
+      "name": "Desi Doodles Enamel Pin Set",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131080_1.jpg?v=1709201891&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605131080_2.jpg?v=1709201893&width=1000",
+      "url": "https://www.chumbak.com/products/desi-doodles-enamel-pin-set",
+      "price": "₹ 995",
+      "id": "26b8"
+    },
+    {
+      "name": "SmartWatch",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605121692_2_9ef4e6a3-3dc2-4058-bb78-568dd4498a9e.jpg?v=1708083568&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605121685_2_1fea9a6e-b6e7-4faa-8536-0279d2e65f85.jpg?v=1708083702&width=1000",
+      "url": "https://www.chumbak.com/products/smartwatch",
+      "price": "From ₹ 2,400",
+      "sale_price": "₹ 3,999",
+      "id": "17d8"
+    },
+    {
+      "name": "Valentine's Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/valentines-egift--NEW.jpg?v=1706707975&width=1000",
+      "url": "https://www.chumbak.com/products/valentines-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "b07a"
+    },
+    {
+      "name": "Women's Day Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/woman_s-day-egift.jpg?v=1706612514&width=1000",
+      "url": "https://www.chumbak.com/products/womens-day-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "64d3"
+    },
+    {
+      "name": "Rakhi Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/Rakhi-E-gift-card.jpg?v=1706612396&width=1000",
+      "url": "https://www.chumbak.com/products/rakhi-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "3823"
+    },
+    {
+      "name": "Dot & Stripes Essentials Tumbler Planter",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605130960_1.jpg?v=1705410835&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605130960_2.jpg?v=1705410835&width=1000",
+      "url": "https://www.chumbak.com/products/dot-stripes-essentials-tumbler-planter",
+      "price": "₹ 595",
+      "id": "09c5"
+    },
+    {
+      "name": "Cities of India Tin Candles Gift Box | Set of 4",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605133282_2.jpg?v=1706179519&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605133282_1.jpg?v=1706179519&width=1000",
+      "url": "https://www.chumbak.com/products/cities-of-india-tin-candles-gift-box-set-of-4",
+      "price": "₹ 1,295",
+      "id": "e427"
+    },
+    {
+      "name": "Hamsa Hand Chip & Dip Platter",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605130571_1.jpg?v=1701854875&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605130571_2.jpg?v=1701854877&width=1000",
+      "url": "https://www.chumbak.com/products/hamsa-hand-chip-dip-platter",
+      "price": "₹ 2,495",
+      "id": "12cb"
+    },
+    {
+      "name": "Cuppa Swamy Bobble Head",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605119019_1_6b2b5ac6-ac6b-4846-9a8d-98bda7366e8b.jpg?v=1709017134&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605119019_1.jpg?v=1709017134&width=1000",
+      "url": "https://www.chumbak.com/products/cuppa-swamy-bobble-head",
+      "price": "₹ 1,795",
+      "id": "8abc"
+    },
+    {
+      "name": "Happy New Year Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/christmas-1.jpg?v=1702014718&width=980",
+      "url": "https://www.chumbak.com/products/happy-new-year-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "43c8"
+    },
+    {
+      "name": "Holiday Season Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/christmas-2.jpg?v=1702014692&width=1000",
+      "url": "https://www.chumbak.com/products/holiday-season-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "2c39"
+    },
+    {
+      "name": "Mother’s Day Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/Mother_s-Day.jpg?v=1698316981&width=1000",
+      "url": "https://www.chumbak.com/products/mother-s-day-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "1fa5"
+    },
+    {
+      "name": "Housewarming Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/House-Warming.jpg?v=1698316933&width=1000",
+      "url": "https://www.chumbak.com/products/housewarming-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "6075"
+    },
+    {
+      "name": "Father’s Day Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/Father_s-Day.jpg?v=1698316896&width=1000",
+      "url": "https://www.chumbak.com/products/father-s-day-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "f0a3"
+    },
+    {
+      "name": "Birthday Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/Birthday-e-gift.jpg?v=1706611942&width=1000",
+      "url": "https://www.chumbak.com/products/birthday-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "8a41"
+    },
+    {
+      "name": "Anniversary Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/Anniversary.jpg?v=1698316791&width=1000",
+      "url": "https://www.chumbak.com/products/anniversary-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "c3a1"
+    },
+    {
+      "name": "Marigold Tiger-Tiger Tray",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605132032_1.jpg?v=1697717046&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605132032_2.jpg?v=1697717048&width=1000",
+      "url": "https://www.chumbak.com/products/marigold-tiger-tiger-tray",
+      "price": "₹ 1,295",
+      "id": "5e56"
+    },
+    {
+      "name": "Marigold Mini Tumbler, White",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605130717_1.jpg?v=1697609612&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605130717_2.jpg?v=1697609612&width=1000",
+      "url": "https://www.chumbak.com/products/marigold-mini-tumbler-white",
+      "price": "₹ 595",
+      "id": "dbde"
+    },
+    {
+      "name": "Marigold Large Tumbler, White",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605130700_1.jpg?v=1697609857&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605130700_2.jpg?v=1697609858&width=1000",
+      "url": "https://www.chumbak.com/products/marigold-large-tumbler-white",
+      "price": "₹ 795",
+      "id": "45fb"
+    },
+    {
+      "name": "Festive Gift Card",
+      "image1": "https://www.chumbak.com/cdn/shop/files/festive-Gift-card.jpg?v=1706611974&width=1000",
+      "url": "https://www.chumbak.com/products/festive-gift-card",
+      "price": "From ₹ 1,000",
+      "id": "85c1"
+    },
+    {
+      "name": "Diwali Party Gift Box - Laxmi",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605132957_1.jpg?v=1697439605&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605132957_2.jpg?v=1697439604&width=1000",
+      "url": "https://www.chumbak.com/products/diwali-party-gift-box-laxmi",
+      "price": "₹ 695",
+      "id": "97c9"
+    },
+    {
+      "name": "Diwali Party Gift Box - Ganesha",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605132964_1.jpg?v=1697439521&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605132964_2.jpg?v=1697439520&width=1000",
+      "url": "https://www.chumbak.com/products/diwali-party-gift-box-ganesha",
+      "price": "₹ 695",
+      "id": "0b0b"
+    },
+    {
+      "name": "Essentials Cushion Cover",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605128226_1_d11b8c1c-dede-4051-8ffc-ee16622818b8.jpg?v=1695643821&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128226_1_0adcb876-e1c1-4e63-8a37-282323cd7f97.jpg?v=1695643853&width=1000",
+      "url": "https://www.chumbak.com/products/essentials-cushion-cover",
+      "price": "From ₹ 485",
+      "id": "a00f"
+    },
+    {
+      "name": "Essentials Lace Serving Bowl, Pink",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605128097_1_caa4dfdd-52c0-4b54-b4c9-055806bea7cc.jpg?v=1695635376&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605128097_2.jpg?v=1695635376&width=1000",
+      "url": "https://www.chumbak.com/products/essentials-lace-serving-bowl-pink-1",
+      "price": "From ₹ 355",
+      "id": "b834"
+    },
+    {
+      "name": "Essentials Lace Serving Bowl",
+      "image1": "https://www.chumbak.com/cdn/shop/products/8907605127991_1.jpg?v=1695275782&width=1000",
+      "image2": "https://www.chumbak.com/cdn/shop/files/8907605127991_1_e52eabf8-b264-4621-8408-ab3074c87dcf.jpg?v=1695275813&width=1000",
+      "url": "https://www.chumbak.com/products/essentials-lace-serving-bowl-pink",
+      "price": "From ₹ 355",
+      "id": "7a23"
+    }
+  ],
+  "cart": [
+    {
+      "id": "2366",
+      "name": "Explorer Backpack | Batik Patchwork",
+      "image": "https://www.chumbak.com/cdn/shop/files/8907605135057_1.jpg?v=1714728626&width=1000",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135057_2.jpg?v=1714728626&width=1000",
+      "price": "₹ 3,595"
+    },
+    {
+      "id": "dbc4",
+      "name": "Explorer Backpack | Batik Patchwork",
+      "image": "https://www.chumbak.com/cdn/shop/files/8907605135057_1.jpg?v=1714728626&width=1000",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135057_2.jpg?v=1714728626&width=1000",
+      "price": "₹ 3,595"
+    },
+    {
+      "id": "60c6",
+      "name": "Teal by Chumbak Kilim Watch Metal Mesh Strap - Pink",
+      "image": "https://www.chumbak.com/cdn/shop/files/8907605129582_1.jpg?v=1702381188&width=1000",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605129582_2_61ab8a18-6f95-4de1-bb2a-e9c31f590b40.jpg?v=1702556590&width=1000",
+      "price": "₹ 1,750"
+    },
+    {
+      "id": "43f8",
+      "name": "Explorer Backpack | Batik Patchwork",
+      "image": "https://www.chumbak.com/cdn/shop/files/8907605135057_1.jpg?v=1714728626&width=1000",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135057_2.jpg?v=1714728626&width=1000",
+      "price": "₹ 3,595"
+    },
+    {
+      "id": "015d",
+      "name": "Explorer Backpack | Batik Patchwork",
+      "image": "https://www.chumbak.com/cdn/shop/files/8907605135057_1.jpg?v=1714728626&width=1000",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605135057_2.jpg?v=1714728626&width=1000",
+      "price": "₹ 3,595"
+    },
+    {
+      "id": "4e44",
+      "name": "Explorer Sling-cum-Handbag | Palm Springs",
+      "image": "https://www.chumbak.com/cdn/shop/files/8907605131721_1_66478b35-61ca-45f6-bca0-38cb43e31211.jpg?v=1715334198&width=1000",
+      "image1": "https://www.chumbak.com/cdn/shop/files/8907605131721_2_84f7bbfb-da1c-41a6-b67f-e269ef8a68dc.jpg?v=1715334199&width=1000",
+      "price": "₹ 1,995"
+    },
+    {
+      "id": "72c7",
+      "name": "Chumbak Smartwatch - Wilderness",
+      "image": "https://www.chumbak.com/cdn/shop/files/8907605121661_2.jpg?v=1712912468&width=1000",
+      "image1": "https://www.chumbak.com/cdn/shop/files/WildernessWatch-01.jpg?v=1712912468&width=1000",
+      "price": "₹ 2,800"
+    },
+    {
+      "id": "1006",
+      "name": "Chumbak Smartwatch - Wilderness",
+      "image": "https://www.chumbak.com/cdn/shop/files/8907605121661_2.jpg?v=1712912468&width=1000",
+      "image1": "https://www.chumbak.com/cdn/shop/files/WildernessWatch-01.jpg?v=1712912468&width=1000",
+      "price": "₹ 2,800"
+    }
+  ]
+}
